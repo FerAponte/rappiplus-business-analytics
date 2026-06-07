@@ -20,6 +20,26 @@ Este proyecto presenta un análisis integral y estratégico del servicio \*\*Rap
 
 
 
+\## 📊 Dashboard de Business Intelligence (Power BI)
+
+Se diseñó un tablero interactivo orientado a negocio para centralizar los principales KPIs analizados en el proyecto, permitiendo a los stakeholders monitorear la salud de la vertical en tiempo real.
+
+
+
+!\[Vista Previa del Dashboard](images/dashboard\_preview.png)
+
+
+
+\### 📈 Características Clave del Reporte:
+
+\* \*\*Monitoreo Financiero:\*\* Desglose interactivo de Revenue, Costos y Profit acumulado por categoría de producto.
+
+\* \*\*Control del Funnel:\*\* Gráficos dinámicos para identificar fugas de conversión en la interfaz de Checkout.
+
+\* \*\*Filtros Avanzados:\*\* Segmentación por país, canal de marketing y comportamiento de cohortes de usuarios.
+
+
+
 \## 📊 Estructura del Análisis
 
 El proyecto se desarrolla a través de cuatro pilares críticos:
@@ -41,6 +61,12 @@ El proyecto se desarrolla a través de cuatro pilares críticos:
 \* \*\*Estabilidad del Usuario:\*\* A diferencia de las caídas mensuales drásticas comunes en productos digitales, el análisis de retención reveló un comportamiento plano y lineal, indicando un núcleo sólido de usuarios altamente fidelizados que sostienen el servicio.
 
 \* \*\*Optimización:\*\* Los hallazgos en el embudo abren oportunidades específicas para mitigar la fricción en la interfaz de pago (Checkout UI).
+
+
+
+
+
+
 
 
 
