@@ -26,9 +26,7 @@ Se diseñó un tablero interactivo orientado a negocio para centralizar los prin
 
 
 
-!\[Vista Previa del Dashboard](https://raw.githubusercontent.com/FerAponte/rappiplus-business-analytics/main/images/dashboard\_preview.png)
-
-
+<img src="https://raw.githubusercontent.com/FerAponte/rappiplus-business-analytics/main/images/dashboard\_preview.png" width="800" alt="Dashboard Power BI">
 
 \### 📈 Características Clave del Reporte:
 
