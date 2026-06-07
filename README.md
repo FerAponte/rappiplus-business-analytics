@@ -26,7 +26,7 @@ Se diseñó un tablero interactivo orientado a negocio para centralizar los prin
 
 
 
-!\[Vista Previa del Dashboard](https://github.com/FerAponte/rappiplus-business-analytics/blob/main/images/dashboard\_preview.png)
+!\[Vista Previa del Dashboard](https://raw.githubusercontent.com/FerAponte/rappiplus-business-analytics/main/images/dashboard\_preview.png)
 
 
 
