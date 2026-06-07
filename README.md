@@ -10,7 +10,7 @@ Este proyecto presenta un análisis integral y estratégico del servicio \*\*Rap
 
 \## 🛠️ Tecnologías y Herramientas
 
-\* \*\*Lenguaje:\*\* Python 3.x
+
 
 \* \*\*Librerías:\*\* Pandas, NumPy, Matplotlib, Seaborn
 
